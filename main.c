@@ -3,6 +3,7 @@
 #include "stdlib.h"
 
 int main(){
+    printf("Hello\n");
     float a;
     float pi = 3.14;
     printf("Введите переменную а\n");
